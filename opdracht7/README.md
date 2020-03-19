@@ -24,3 +24,9 @@ Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issu
 | Op de hoofdpagina kan de gebruiker een moeilijkheidsgraad kiezen |  |
 | Op de hoofdpagina kan de gebruiker een categorie kiezen |  |
 | Wanneer de gebruiker een categorie kiest, wordt er een oefeningenreeks gestart op de exercise.php pagina |  |
+
+---
+
+## Evaluatie Dagelijks Werk
+
+Bij deze opdracht hoort geen evaluatie voor Dagelijks Werk. Alle code die je vanaf nu schrijft wordt beoordeeld door je examen-evaluatie. 

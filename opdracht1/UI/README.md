@@ -10,7 +10,9 @@ In dit project maak je een applicatie voor leerlingen om spellingsregels te oefe
 
 De laatste twee stappen voer je twee keer uit: één keer voor de startpagina van je applicatie, één keer voor de oefeningenpagina van je applicatie.
 
-**VOORDAT JE AAN DEZE STAPPEN BEGINT, LEES JE BEST EERST GRONDIG DE BESCHRIJVING VAN DE APPLICATIE**.
+**VOORDAT JE AAN DEZE STAPPEN BEGINT, LEES JE BEST EERST GRONDIG DE BESCHRIJVING VAN DE APPLICATIE**. 
+
+**TIP**: Probeer Duolingo of Memrise eens uit, voordat je een template kiest. Probeer vervolgens een template waarmee je denkt dit soort applicaties ook te kunnen creëren.
 
 ### 1. Kies een template
 
@@ -35,7 +37,9 @@ Je doet dit **3 keer**: één keer voor de startpagina, twee keer voor de oefeni
 
 ### 3. Maak een lijnentekening
 
-Gebruik de screenshot uit stap 2 om de hoofdlayout van je website te bepalen. Maak hiervoor een lijnentekening. **Toon de lijnentekening onderaan dit document op de aangewezen plaats**. 
+Gebruik de screenshot uit stap 2 om de hoofdlayout van je website te bepalen. Maak hiervoor een lijnentekening. Toon op de lijnentekening ook welke rijen/kolommen gemaakt zullen worden met CSS Grid. 
+
+**Toon de lijnentekening onderaan dit document op de aangewezen plaats**. 
 
 ## Mijn UI
 
