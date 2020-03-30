@@ -1,4 +1,4 @@
-# spellingapplicatie week 5
+# spellingapplicatie opdracht 5
 
 ## opdracht
 
@@ -11,9 +11,9 @@ Zorg ervoor dat exercise.php nu ook een score als url parameter meekrijgt. Aan h
 OPTIONEEL: Zorg ervoor dat exercise.php nu ook een moeilijkheidsgraad als url parameter meekrijgt. Een oefeningenreeks bestaat uit een reeks van 10 oefeningen met dezelfde moeilijkheidsgraad en dezelfde categorie.<br>
 (als alternatief kan je ook kijken naar de moeilijkheidsgraad van de vorige oefening, want die moet hetzelfde zijn als die van de volgende).
 
-## peer review week 4
+## peer review opdracht 4
 
-Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "week 4 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
+Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "opdracht 4 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
 
 \* je kan zo'n tabel met [html](https://www.w3schools.com/html/html_tables.asp) maken of met [github markdown](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables).
 

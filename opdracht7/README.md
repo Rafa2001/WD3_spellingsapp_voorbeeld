@@ -1,4 +1,4 @@
-# spellingapplicatie week 7-...
+# spellingapplicatie opdracht 7-...
 
 ## opdracht
 
@@ -13,9 +13,9 @@ Deze laatste week/weken werk je de rest van de applicatie verder af. Kopieer de 
 
 Lees de beschrijving van de applicatie nog eens goed na, zodat je zeker niets vergeten bent.
 
-## peer review week 6
+## peer review opdracht 6
 
-Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "week 6 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
+Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "opdracht 6 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
 
 \* je kan zo'n tabel met [html](https://www.w3schools.com/html/html_tables.asp) maken of met [github markdown](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables).
 

@@ -1,4 +1,4 @@
-# spellingapplicatie week 2
+# spellingapplicatie opdracht 2
 
 ## opdracht
 
@@ -14,9 +14,9 @@ Maak de template-pagina's na met behulp van HTML, CSS en CSS Grid.
  - Maak je website responsive voor Mobile en Desktop.
  - Ontwikkel je UI **Mobile First**: Zorg er éérst voor dat de UI werkt op Mobile, voeg daarna pas CSS Grid code toe om de layout voor Desktop uit te werken.
 
-## peer review week 1
+## peer review opdracht 1
 
-Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "week 1 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
+Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "opdracht 1 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
 
 \* je kan zo'n tabel met [html](https://www.w3schools.com/html/html_tables.asp) maken of met [github markdown](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables).
 

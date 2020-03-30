@@ -1,4 +1,4 @@
-# spellingapplicatie week 6
+# spellingapplicatie opdracht 6
 
 ## opdracht
 
@@ -11,9 +11,9 @@ Zorg ervoor dat de gebruiker op de voorpagina een keuze kan maken tussen de vers
 bv.: <br>
 drukt de gebruiker op een knop met de tekst 'OEFENINGEN ROND VERVOEGING V/H WERKWOORD' dan wordt de pagina exercise.php geladen met 3 URL parameters: een score (die nog 0 is), een teller (die op 1 gezet wordt) en een categorie met de waarde 'vervoeging'.
 
-## peer review week 5
+## peer review opdracht 5
 
-Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "week 5 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
+Ga naar de issues tab van het project dat jij moet reviewen. Maak een nieuw issue aan genaamd "opdracht 5 peer review". Maak daarin volgende tabel opnieuw na* en vul deze in.
 
 \* je kan zo'n tabel met [html](https://www.w3schools.com/html/html_tables.asp) maken of met [github markdown](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables).
 

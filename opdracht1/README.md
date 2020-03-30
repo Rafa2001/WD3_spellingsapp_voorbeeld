@@ -1,4 +1,4 @@
-# spellingapplicatie week 1
+# spellingapplicatie opdracht 1
 
 ## opdracht
 
