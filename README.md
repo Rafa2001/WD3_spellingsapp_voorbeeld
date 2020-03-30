@@ -72,7 +72,7 @@ Deze 3 onderdelen worden beoordeel aan de hand van de rubrics die je hieronder v
 | Programmeer attitude: probleem analyse  | De opdracht werd goed uitgewerkt. Je probleem analyse bevat weinig of geen fouten. |	Hoewel de opdracht niet goed werd uitgewerkt, heb je een goede probleem analyse gemaakt met weinig of geen fouten. |	Je hebt de opdracht correct uitgewerkt, maar je probleemanalyse is onvoldoende uitgewerkt. |	Je hebt de opdracht niet goed uitgewerkt, omdat je probleem analyse fouten bevat. |	Je hebt geen probleem analyse gemaakt, waardoor de opdracht niet goed werd uitgewerkt. |
 | Foutopsporing: syntax- en runtimefouten | Je hebt de meeste syntax- en runtimefouten gevonden en verklaard, en kan er ook een oplossing voor geven. | Je hebt de meeste runtime-fouten gevonden en verklaard, en kan er ook een oplossing voor geven. Je hebt slechts weinig syntax fouten gevonden. | Je hebt de meeste syntax-fouten gevonden en verklaard, en kan er ook een oplossing voor geven. Je hebt slechts weinig runtime fouten gevonden. | Je hebt weinig fouten gevonden. Je kan de fouten die je vond wel verklaren, maar je biedt weinig oplossingen hiervoor.  | Je hebt weinig fouten gevonden. De fouten die je vond kan je niet verklaren of oplossen. |
 
-### domeinmodel
+### programmeren
 
 | Doelstelling | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
