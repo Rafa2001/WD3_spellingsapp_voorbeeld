@@ -10,7 +10,7 @@ In dit project maak je een applicatie voor leerlingen om spellingsregels te oefe
 
 De laatste twee stappen voer je twee keer uit: één keer voor de startpagina van je applicatie, één keer voor de oefeningenpagina van je applicatie.
 
-**VOORDAT JE AAN DEZE STAPPEN BEGINT, LEES JE BEST EERST GRONDIG DE BESCHRIJVING VAN DE APPLICATIE**. 
+**VOORDAT JE AAN DEZE STAPPEN BEGINT, LEES JE BEST EERST GRONDIG DE BESCHRIJVING VAN DE APPLICATIE**. (Je kan deze terugvinden in het README.md bestand in de hoofdmap)
 
 **TIP**: Probeer Duolingo of Memrise eens uit, voordat je een template kiest. Probeer vervolgens een template waarmee je denkt dit soort applicaties ook te kunnen creëren.
 
