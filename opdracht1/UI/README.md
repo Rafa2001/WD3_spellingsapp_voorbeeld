@@ -1,8 +1,8 @@
-# spellingapplicatie week 1
+# spellingapplicatie opdracht 1
 
 ## opdracht
 
-In dit project maak je een applicatie voor leerlingen om spellingsregels te oefenen. Tijdens deze week bereidt je de user interface van de applicatie voor.
+In dit project maak je een applicatie voor leerlingen om spellingsregels te oefenen. Tijdens deze opdracht bereidt je de user interface van de applicatie voor.
 
  1. kies een template.
  2. pas de template aan met behulp van de Inspector en maak hier een screenshot van. (3x)
