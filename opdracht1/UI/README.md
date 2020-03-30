@@ -47,7 +47,7 @@ Vul hieronder de nodige gegevens aan. Gebruik voor de afbeeldingen een relatief 
 
 ### Mijn gekozen template
 
-<a href="#">template</a>
+<a href="https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm">template: The Café</a>
 
 ### Screenshot
 
