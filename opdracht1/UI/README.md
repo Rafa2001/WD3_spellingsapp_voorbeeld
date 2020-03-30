@@ -51,6 +51,10 @@ Vul hieronder de nodige gegevens aan. Gebruik voor de afbeeldingen een relatief 
 
 ### Screenshot
 
+<img src="images/spellingsapp_hoofdpagina.png">
+
+<img src="images/#">
+
 <img src="images/#">
 
 ### Lijnentekening
