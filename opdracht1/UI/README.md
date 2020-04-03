@@ -51,12 +51,22 @@ Vul hieronder de nodige gegevens aan. Gebruik voor de afbeeldingen een relatief 
 
 ### Screenshot
 
+#### Hoofdpagina
 <img src="images/hoofdpagina.png">
 
+#### Oefenpagina - invuloefening
 <img src="images/oefenpagina_invullen.png">
 
-<img src="images/#">
+#### Oefenpagina - meerkeuzeoefening
+<img src="images/oefenpagina_meerkeuze.png">
 
 ### Lijnentekening
 
+#### Hoofdpagina
 <img src="images/hoofdpagina_lijnentekening.png">
+
+#### Oefenpagina - invuloefening
+<img src="images/oefenpagina_invullen_lijnentekening.png">
+
+#### Oefenpagina - meerkeuzeoefening
+<img src="images/oefenpagina_meerkeuze_lijnentekening.png">
