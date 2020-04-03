@@ -59,4 +59,4 @@ Vul hieronder de nodige gegevens aan. Gebruik voor de afbeeldingen een relatief 
 
 ### Lijnentekening
 
-<img src="images/spellingsapp_hoofdpagina_lijnentekening.jpg">
+<img src="images/hoofdpagina_lijnentekening.png">
