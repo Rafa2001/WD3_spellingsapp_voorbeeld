@@ -65,8 +65,5 @@ Vul hieronder de nodige gegevens aan. Gebruik voor de afbeeldingen een relatief 
 #### Hoofdpagina
 <img src="images/hoofdpagina_lijnentekening.png">
 
-#### Oefenpagina - invuloefening
-<img src="images/oefenpagina_invullen_lijnentekening.png">
-
-#### Oefenpagina - meerkeuzeoefening
-<img src="images/oefenpagina_meerkeuze_lijnentekening.png">
+#### Oefenpagina
+<img src="images/oefenpagina_lijnentekening.png">
