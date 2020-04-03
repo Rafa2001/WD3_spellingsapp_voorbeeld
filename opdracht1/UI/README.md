@@ -53,7 +53,7 @@ Vul hieronder de nodige gegevens aan. Gebruik voor de afbeeldingen een relatief 
 
 <img src="images/hoofdpagina.png">
 
-<img src="images/#">
+<img src="images/oefenpagina_invullen.png">
 
 <img src="images/#">
 
